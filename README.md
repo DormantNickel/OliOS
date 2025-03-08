@@ -6,7 +6,7 @@ VERSIONS:
 1.0.0:
 + basic iso files
 
-1.0.2:
+1.0.2 (download now):
 + commands
 + file managment system
 
