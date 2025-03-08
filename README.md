@@ -1,5 +1,5 @@
 # OliOS v1.0.2
-# by DormantNickel/Rubicontt
+by DormantNickel/Rubicontt
 
 An operating system made in CosmosOS - OliOS v1.0.2, next version 1.2.0 with GUI.
 You can use it and learn from this code.
