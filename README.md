@@ -18,7 +18,7 @@ VERSIONS:
 + windows
 + fix errors
 
-1.2.4 (download now):
+1.2.4:
 + app line
 + fix errors
   
