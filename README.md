@@ -1,19 +1,26 @@
-# OliOS v1.0.2
+# OliOS v1.2.0
 by DormantNickel/Rubicontt
 
 An operating system made in CosmosOS - OliOS v1.0.2, next version 1.2.0 with GUI.
-You can use it and learn from this code.
 
 VERSIONS:
 
 1.0.0:
 + basic iso files
 
-1.0.2 (download now):
+1.0.2:
 + commands
 + file managment system
 
-1.2.0:
+1.2.0 (download now):
 + gui command
 + gui
 + windows
+  
+PHOTOS:
+
+![obraz](https://github.com/user-attachments/assets/3a13d0af-6b5d-4f60-a948-3c4c5da2d0ea)
+
+![Zrzut ekranu 2025-03-09 162656](https://github.com/user-attachments/assets/44262330-b4ef-497c-9157-202c40688bbe)
+
+###
