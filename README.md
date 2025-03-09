@@ -16,11 +16,19 @@ VERSIONS:
 + gui command
 + gui
 + windows
++ fix errors
+
+1.2.4 (download now):
++ app line
++ fix errors
   
 PHOTOS:
 
-![obraz](https://github.com/user-attachments/assets/3a13d0af-6b5d-4f60-a948-3c4c5da2d0ea)
+![photo1](https://github.com/user-attachments/assets/d763887d-af7a-4518-8d3a-75a27e44cca8)
 
-![Zrzut ekranu 2025-03-09 162656](https://github.com/user-attachments/assets/44262330-b4ef-497c-9157-202c40688bbe)
+![photo2](https://github.com/user-attachments/assets/3a13d0af-6b5d-4f60-a948-3c4c5da2d0ea)
+
+![photo3](https://github.com/user-attachments/assets/44262330-b4ef-497c-9157-202c40688bbe)
+
 
 ###
